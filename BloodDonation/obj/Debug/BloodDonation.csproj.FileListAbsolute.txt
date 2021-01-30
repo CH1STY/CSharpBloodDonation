@@ -1,0 +1,17 @@
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\bin\Debug\BloodDonation.exe.config
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\bin\Debug\BloodDonation.exe
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\bin\Debug\BloodDonation.pdb
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csprojAssemblyReference.cache
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.Properties.Resources.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csproj.GenerateResource.cache
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csproj.CoreCompileInputs.cache
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.exe
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.pdb
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.LoginForm.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.AdminPanel.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.AdminReg.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.AddDonor.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.DonorList.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.DonarDetails.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.AddDonation.resources
+C:\Users\Chisty\Desktop\Soumiks\BloodDonation\BloodDonation\obj\Debug\BloodDonation.DonationHistory.resources
